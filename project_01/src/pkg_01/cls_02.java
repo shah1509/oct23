@@ -16,7 +16,7 @@ public class cls_02 {
 	}
 	public void div(int n, int o) {
 		int m=n/o;
-		System.out.println("final result is " + m);
+		System.out.println("final test result is " + m);
 	}
 	
 	public static void main(String[] args) {

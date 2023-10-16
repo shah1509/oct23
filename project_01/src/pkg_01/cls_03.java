@@ -19,7 +19,7 @@ public class cls_03 {
 	}
 	public void div(int q, int r) {
 		int p = q/r;;
-		System.out.println("final result is "+p);
+		System.out.println("final test result is "+p);
 	}
 
 	public static void main(String[] args) {
